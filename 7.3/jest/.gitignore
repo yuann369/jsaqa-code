@@ -5,6 +5,7 @@ HELP.md
 build/
 node_modules/
 coverage/
+package-lock.json 
 
 ### STS ###
 .apt_generated
